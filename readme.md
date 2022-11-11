@@ -7,13 +7,7 @@
 
 ![](https://i.ibb.co/6vZRVHP/Captura2-4x.png)
 
-<div>
-<p style = 'text-align:center;'>
-<iframe width="600" height = "420"
-src="https://www.youtube.com/embed/WuEH265pUy4">
-</iframe>
-</div>
-</p>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/WuEH265pUy4)
 
 # __Bootstrap Studio__
 > [Bootstrap Studio](https://bootstrapstudio.io) Es una poderosa aplicación de escritorio para crear sitios web receptivos utilizando Bootstrap.
