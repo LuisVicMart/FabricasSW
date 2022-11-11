@@ -1,8 +1,6 @@
 # __Apple__
 
 > [Apple](https://www.apple.com/mx/) Es una gran empresa que produce y diseña artículos electrónicos y software, esta distribuye equipos tecnológicos en todo el mundo.
-<<<<<<< HEAD
-> Una de las cosas más llamativas, aparte de sus productos, es el diseño de su página web, que está creada con un diseño elegante, con muchos colores envolventes que buscan atraer la atención de muchos entusiastas de la marcas.
 
 > Una de las cosas más llamativas, aparte de sus productos, es el diseño de su página web, que está creada con un diseño elegante, con muchos colores envolventes que buscan atraer la atención de muchos entusiastas de la marca.
 
